@@ -1,4 +1,6 @@
-LeetCode Problem Tracker - Setup Guide
+# LeetCode Problem Tracker - Setup Guide
+
+Stay motivated and consistent with your coding journey. This AI-powered app tracks your progress, suggests your next challenge, and sends smart & motivating reminders to your email, all tailored to your performance. 
 
 ##  Quick Start Instructions
 
