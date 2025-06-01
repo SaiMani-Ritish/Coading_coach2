@@ -1,4 +1,4 @@
-# Coading_coach2# LeetCode Problem Tracker - Setup Guide
+LeetCode Problem Tracker - Setup Guide
 
 ##  Quick Start Instructions
 
